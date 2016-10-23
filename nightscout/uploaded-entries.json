@@ -401,11 +401,11 @@
     "direction": "Flat", 
     "sgv": 234, 
     "dateString": "2016-10-23T04:03:38-07:00", 
-    "device": "openaps://indy-e1/cgm", 
-    "unfiltered": 205184, 
-    "rssi": 189, 
     "date": 1477220618000, 
+    "unfiltered": 205184, 
     "filtered": 209856, 
+    "device": "openaps://indy-e1/cgm", 
+    "rssi": 189, 
     "type": "sgv", 
     "glucose": 234
   }
