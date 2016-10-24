@@ -55,11 +55,11 @@
     "direction": "FortyFiveUp", 
     "sgv": 207, 
     "dateString": "2016-10-24T08:48:59-07:00", 
-    "device": "openaps://indy-e1/cgm", 
-    "unfiltered": 194016, 
-    "rssi": 16571, 
     "date": 1477324139000, 
+    "unfiltered": 194016, 
     "filtered": 192864, 
+    "device": "openaps://indy-e1/cgm", 
+    "rssi": 16571, 
     "type": "sgv", 
     "glucose": 207
   }
