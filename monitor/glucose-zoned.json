@@ -1,6 +1,38 @@
 [
   {
     "trend_arrow": "NOT_COMPUTABLE", 
+    "display_time": "2016-11-01T03:58:11-07:00", 
+    "noise": 3, 
+    "direction": "NOT COMPUTABLE", 
+    "system_time": "2016-11-01T09:51:31-07:00", 
+    "sgv": 135, 
+    "dateString": "2016-11-01T03:58:11-07:00", 
+    "device": "openaps://indy-e1/cgm", 
+    "unfiltered": 112080, 
+    "rssi": 450, 
+    "date": 1477997891000.0, 
+    "filtered": 117680, 
+    "type": "sgv", 
+    "glucose": 135
+  }, 
+  {
+    "trend_arrow": "NOT_COMPUTABLE", 
+    "display_time": "2016-11-01T03:53:10-07:00", 
+    "noise": 3, 
+    "direction": "NOT COMPUTABLE", 
+    "system_time": "2016-11-01T09:46:31-07:00", 
+    "sgv": 130, 
+    "dateString": "2016-11-01T03:53:10-07:00", 
+    "device": "openaps://indy-e1/cgm", 
+    "unfiltered": 114896, 
+    "rssi": 188, 
+    "date": 1477997590000.0, 
+    "filtered": 113264, 
+    "type": "sgv", 
+    "glucose": 130
+  }, 
+  {
+    "trend_arrow": "NOT_COMPUTABLE", 
     "display_time": "2016-11-01T03:48:10-07:00", 
     "noise": 3, 
     "direction": "NOT COMPUTABLE", 
@@ -62,37 +94,5 @@
     "filtered": 124672, 
     "type": "sgv", 
     "glucose": 144
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-11-01T03:28:10-07:00", 
-    "noise": 1, 
-    "direction": "Flat", 
-    "system_time": "2016-11-01T09:21:31-07:00", 
-    "sgv": 148, 
-    "dateString": "2016-11-01T03:28:10-07:00", 
-    "device": "openaps://indy-e1/cgm", 
-    "unfiltered": 127712, 
-    "rssi": 184, 
-    "date": 1477996090000.0, 
-    "filtered": 130304, 
-    "type": "sgv", 
-    "glucose": 148
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-11-01T03:23:10-07:00", 
-    "noise": 1, 
-    "direction": "Flat", 
-    "system_time": "2016-11-01T09:16:31-07:00", 
-    "sgv": 151, 
-    "dateString": "2016-11-01T03:23:10-07:00", 
-    "device": "openaps://indy-e1/cgm", 
-    "unfiltered": 130064, 
-    "rssi": 180, 
-    "date": 1477995790000.0, 
-    "filtered": 131392, 
-    "type": "sgv", 
-    "glucose": 151
   }
 ]
